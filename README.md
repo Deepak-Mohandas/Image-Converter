@@ -26,10 +26,10 @@ These are the followings steps to build the Image Converter GUI with Python.
   
 ## Screenshots
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Image-Converter/blob/main/Running%20screenshots/Screenshot%202022-12-14%20114619.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Image-Converter/blob/main/Result/Screenshot%202022-12-14%20114619.png)
 
 
-![App Screenshot](https://github.com/Deepak-ODRDLabs/Image-Converter/blob/main/Running%20screenshots/Screenshot%202022-12-14%20114502.png)
+![App Screenshot](https://github.com/Deepak-ODRDLabs/Image-Converter/blob/main/Result/Screenshot%202022-12-14%20114502.png)
 
 ## Authors
 
